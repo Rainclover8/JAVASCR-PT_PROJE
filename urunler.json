@@ -1,0 +1,27 @@
+[
+    {
+        "adi":"Gitar",
+        "fiyat":"45000",
+        "resim":"./img/kopyası/akustik-1.jpeg"
+    },
+    {
+        "adi":"Iphone2",
+        "fiyat":"46000",
+        "resim":"resim.png"
+    },
+    {
+        "adi":"Iphone3",
+        "fiyat":"47000",
+        "resim":"resim.png"
+    },
+    {
+        "adi":"Iphone4",
+        "fiyat":"48000",
+        "resim":"resim.png"
+    },
+    {
+        "adi":"Iphone5",
+        "fiyat":"49000",
+        "resim":"resim.png"
+    }
+]
